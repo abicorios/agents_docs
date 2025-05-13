@@ -6,7 +6,7 @@
 - [Які моделі використовувались](questions/which_models_are_used.md)
 - [Які агенти використовувались](questions/which_agents_are_used.md)
 - [Яка приблизно ціна в середньому](questions/average_price.md)
-- [Як відбувається типове підключення агента](questions/how_to_connect_agent.md)
+- [Як відбувається типове підключення агента](questions/connecting_and_setup.md)
 - [Як відбувається постановка задачі агенту](questions/formulating_tasks.md)
 - [Навчання агента. Чи треба вчити? Як вчити? Як добре вчиться і тд.](questions/agent_training.md)
 - [Практична сторона питання. Що покращили агенти загалом в роботі?](questions/practical_benefits.md)
